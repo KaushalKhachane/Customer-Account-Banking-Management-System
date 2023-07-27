@@ -1,6 +1,6 @@
 # Customer Account Banking Management System
 
-This project is a console-based application implemented in C programming language. It serves as a "Customer Account Banking Management System," allowing users to perform various banking operations. The application provides the following functions:
+This project is a console-based application developed in C programming language, serving as a "Customer Account Banking Management System." It enables users to perform diverse banking operations efficiently. The application was collaboratively created by me and my project partner, Abhishek Patil, during our second year of diploma in Computer Science at Government Polytechnic Khamgaon. The application provides the following functions:
 
 - **Menu**: Users are prompted to enter a password (password: "dsuproject") for login authentication before accessing the banking functionalities.
 
