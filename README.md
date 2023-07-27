@@ -31,10 +31,12 @@ Please ensure you have the necessary environment set up to compile and run the p
 Feel free to use and modify this project according to your requirements.
 
 
-Collaboration:
+### Collaboration
+
 We welcome collaboration and contributions to enhance and upgrade this banking management system. If you wish to contribute to the project, you can reach out to us via the contact email provided above.
 
-Contact Us:
+### Contact Us
+
 If you have any questions, feedback, or suggestions for improvement, please feel free to contact us at khachaneks22@gmail.com.
 
 Enjoy managing your banking operations with ease!
